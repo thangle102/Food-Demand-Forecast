@@ -23,6 +23,7 @@ Project files/ folder:
  <ul>
   <li>Source data files: train.csv, test.csv, fulfilment_center_info.csv, meal_info.csv</li>
   <li>Project output files: submission.csv, history_models.csv, model_best</li>
+ </ul>
  * Reporting file: Report.pptx
  * README.md
 
