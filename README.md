@@ -20,7 +20,8 @@ Problem statement: (https://datahack.analyticsvidhya.com/contest/genpact-machine
 Project files/ folder:
  * Notebook/source code: Food_Demand_Forecast.ipynb
  * Data folder: Food Data
-  ** Source data files: train.csv, test.csv, fulfilment_center_info.csv, meal_info.csv
+ <ul>
+  <li> Source data files: train.csv, test.csv, fulfilment_center_info.csv, meal_info.csv
   ** Project output files: submission.csv, history_models.csv, model_best
  * Reporting file: Report.pptx
  * README.md
